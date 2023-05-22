@@ -1,0 +1,5 @@
+import java.util.*;
+
+public interface Func2 {
+    String call(int point, String name);
+}
